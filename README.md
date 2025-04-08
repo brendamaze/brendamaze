@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Brenda 
+# 🌟 Olá! Eu sou a Brenda 
 
 🎓 Sou e studante de Análise e Desenvolvimento de Sistemas
 
@@ -7,6 +7,8 @@
 📊 Atualmente explorando Python e SQL para Datascience e BI
 
 💻 Também estou estudando POO usando Java
+
+🐧 Tenho experiência com Linux
 
 💡 Gosto muito de aprender coisas novas e aprimorar conhecimentos atuais
 
